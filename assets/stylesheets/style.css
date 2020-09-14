@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    width: 325px;
+    text-align: left;
+}
+
+#color-box{
+    width: 200px;
+    height: 200px;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.blue{
+    background-color: navy;
+}
+
+.pink{
+    background-color: pink;
+}
